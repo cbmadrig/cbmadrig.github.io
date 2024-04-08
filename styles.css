@@ -6,7 +6,6 @@ a {
 }
 a:hover {
     color: blue;
-    text-decoration: underline;
 }
 
 p { color: black; 
